@@ -59,8 +59,10 @@ Le fichier `config.py` permet de modifier :
 
 *(Captures d'écran de l'interface à venir)*
 
-## 📄 Mentions Légales et Copyright
+## 📄 Licence
 
-Copyright (c) 2026 C-Lucas-Pro. Tous droits réservés.
+Ce projet est sous licence **MIT**. Vous êtes libre de l'utiliser, de le modifier et de la distribuer, à condition de conserver la mention de copyright originale et de citer l'auteur (**C-Lucas-Pro**).
+
+Pour plus de détails, veuillez consulter le fichier `LICENSE` à la racine de ce dépôt.
 
 Le code source, les designs graphiques et les configurations de ce projet sont la propriété exclusive de son auteur. Toute reproduction, distribution ou modification non autorisée est strictement interdite.
